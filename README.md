@@ -26,6 +26,7 @@ The project leverages the following technologies:
 - **Pandas:** Data manipulation library used for handling the dataset.
 - **Scikit-learn:** Machine learning library used for model development and evaluation.
 - **Matplotlib and Seaborn:** Visualization libraries used for data visualization.
+- **Flask** A lightweight webframework in Python
 
 ## How to Use
 
