@@ -1,6 +1,6 @@
 # Student Performance Prediction
 
-[Watch Demo on YouTube] (https://youtu.be/ojxGSEK1IWs?si=FN_ZgCwa3VckWq-J)
+[Watch Demo on YouTube](https://youtu.be/ojxGSEK1IWs?si=FN_ZgCwa3VckWq-J)
 
 ## Introduction
 
