@@ -1,5 +1,7 @@
 # Student Performance Prediction
 
+[Watch Demo on YouTube] (https://youtu.be/ojxGSEK1IWs?si=FN_ZgCwa3VckWq-J)
+
 ## Introduction
 
 The Student Performance Prediction project aims to predict the math scores of students based on various demographic and educational factors. By analyzing a dataset containing information such as gender, ethnicity, parental education level, lunch type, and test preparation course completion, the project seeks to provide insights into the factors influencing student performance.
